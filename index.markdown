@@ -1,6 +1,5 @@
 ---
 layout: home
-google_analytics: UA-143795828-1
 ---
 ## 44 YEARS OLD AND GOING STRONG! COME AND JOIN US!
 
