@@ -102,5 +102,5 @@ As with all groups, the Empire of the Imperial Magistracy has a contact point. D
 
 [Contact us](mailto:eimruler@outlook.com)
 
-## Join This Site
-If you are already a member of the Empire of the Imperial Magistracy, please continue to our member site at http://eimtome.wikidot.com/ and log in. Please be aware that in order to join this site, you must first be an official member of the Empire of the Imperial Magistracy.
+## Members
+If you are already a member of the Empire of the Imperial Magistracy, please continue to our [member site](http://eimtome.wikidot.com/) and log in. Please be aware that in order to join this site, you must first be an official member of the Empire of the Imperial Magistracy.
