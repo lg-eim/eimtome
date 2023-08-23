@@ -39,6 +39,7 @@ This is the event schedule for the current year. Our new year starts in January 
 | February 25, 2023 | Imperial Cathay Festival |
 | April 15, 2023 | Imperial Festival of Eagles |
 | June 10, 2023 | Imperial Guild Festival |
+| Canceled | Imperial Frivolity Festival |
 | October 28, 2023 | Imperial Harvest Festival |
 
 ### How much?
