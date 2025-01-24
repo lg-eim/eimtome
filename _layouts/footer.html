@@ -1,0 +1,12 @@
+<footer>
+  <section class="page__content e-content" itemprop="text">
+    <!-- ...... -->
+    {{ content }}
+    <!-- ⬇️⬇️ add here ⬇️⬇️ -->
+    {% if page.license %}
+    <br>{% include license.html %}
+    {% endif %}
+    <!-- ⬆️⬆️ add here ⬆️⬆️ -->
+    <!-- ...... -->
+  </section>
+</footer>
