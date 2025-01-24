@@ -1,5 +1,6 @@
 ---
 layout: post
+license: CC BY-NC-ND 4.0
 title:  "New public website"
 date:   2021-10-03
 categories: update
