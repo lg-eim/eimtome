@@ -1,7 +1,7 @@
 ---
 layout: post
 license: CC BY-NC-ND 4.0
-title:  "Guild of Invocation Annual Newsletter"
+title:  "Guild of Invocation Annual Newsletter (2025)"
 date:   2026-03-28
 categories: update
 ---

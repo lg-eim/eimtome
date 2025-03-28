@@ -1,7 +1,7 @@
 ---
 layout: post
 license: CC BY-NC-ND 4.0
-title:  "Tailors' and Seamstress' Guild Year in Review"
+title:  "Tailors' and Seamstress' Guild Year in Review (2024)"
 date:   2025-01-24
 categories: update
 ---
