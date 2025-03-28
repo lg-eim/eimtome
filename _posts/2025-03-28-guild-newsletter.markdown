@@ -2,7 +2,7 @@
 layout: post
 license: CC BY-NC-ND 4.0
 title:  "Guild of Invocation Annual Newsletter (2025)"
-date:   2026-03-28
+date:   2025-03-28
 categories: update
 ---
 We have many guilds within the Empire of the Imperial Magistracy. One such guild, the Guild of Invocation, produces an annual newsletter showcasing works from its members. This is the newsletter for 1596 (2025).
