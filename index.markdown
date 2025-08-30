@@ -38,10 +38,9 @@ This is the event schedule for the current year. Our new year starts in January 
 | Date | Event |
 | --- | --- |
 | March 29, 2025 | Imperial Festival of Guilds |
-| May 17, 2025 | Imperial Festival of Eagles |
-| July 5, 2054 | Imperial Festival of Frivolity |
-| September 20, 2025 | Imperial Festival of Culture |
-| November 15, 2025 | Imperial Festival of the Harvest |
+| June 21, 2025 | Imperial Festival of Eagles |
+| ~~August 30, 2025~~ | ~~Imperial Festival of Culture~~ |
+| October 18, 2025 | Imperial Festival of the Harvest |
 
 ### How much?
 The topic of money is on all of our minds because many people have been hit financially in their every day lives. The good news is that the Empire of the Imperial Magistracy is one of the few groups that exists that asks for minimal annual dues of $5.00. We may also assess our financial situation as we move along throughout the year and if we need money for something we will discuss how we will collect the money needed at that point. We do NOT ask for fees at each gathering. Instead, all we ask is that individuals come to the gathering with a contribution of food or drink for the feast. The rest of the cost is covered by the Empire of the Imperial Magistracy or the host of the event. Finally, the Empire of the Imperial Magistracy has specific positions set aside within the group where members perform duties to keep the group running. Unlike many groups where these positions are performed with no compensation, the Empire of the Imperial Magistracy compensates the individual for their work with in-character coin. In-character coin that can be used when money is called to pay a debt or if the characters wish to barter with each other.
