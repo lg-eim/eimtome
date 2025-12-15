@@ -38,7 +38,7 @@ This is the event schedule for the current year. Our new year starts in January 
 | Date | Event |
 | --- | --- |
 | February 21, 2026 | Imperial Festival of Culture |
-| April 18, 2025 | Imperial Festival of Eagles |
+| April 18, 2026 | Imperial Festival of Eagles |
 | June 13, 2026 | Imperial Festival of Guilds |
 | October 10, 2026 | Imperial Festival of the Harvest |
 
