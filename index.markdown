@@ -7,6 +7,8 @@ license: CC BY-NC-ND 4.0
 ## Our Mission
 The recreation, exploration, education, and enjoyment of Renaissance history, peoples, practices and cultures.
 
+![Nobility at a festival](/assets/CoverPagePicture.jpg)
+
 ## About This Site
 This is the website for the Empire of the Imperial Magistracy. Our characters call this our Tome of Visions and Knowledge. It is like a great book with a wealth of information on its many pages for the characters.
 
